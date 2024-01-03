@@ -39,4 +39,4 @@ This project was built with the following technologies:
 
 ## Demo
 
-![Menu](./assets/jogo_da_velha.gif)
+<img src="./assets/jogo_da_velha.gif" alt="Menu" width="50%">
